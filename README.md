@@ -1,6 +1,6 @@
 # Spring 🌿
 
-Welcome to the Spring Framework Course! 💪
+Welcome to the Spring Framework Course! My name is David nice to meet you 💪
 
 ## Overview
 This course is designed to provide in-depth knowledge and practical skills in mastering the Spring Framework's powerful features.
